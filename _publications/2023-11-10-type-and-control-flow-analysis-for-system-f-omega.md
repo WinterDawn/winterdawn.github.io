@@ -7,6 +7,6 @@ excerpt: 'This paper is about extend type- and control-flow analysis to System F
 date: 2023-11-10
 venue: 'Thesis. Rochester Institute of Technology'
 paperurl: 'https://repository.rit.edu/cgi/viewcontent.cgi?article=12736&context=theses'
-citation: 'Dongyu, Wu. (2023). &quot;Type- and Control-flow Analysis for System F&omega;.&quot; Master’s Thesis, Rochester Institute of Technology, Rochester, NY.'
+citation: 'Dongyu, Wu. (2023). &quot;Type- and Control-flow Analysis for System F&omega;.&quot; Master&rsquo;s Thesis, Rochester Institute of Technology, Rochester, NY.'
 ---
 
