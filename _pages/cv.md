@@ -11,9 +11,9 @@ redirect_from:
 
 # Education
 
--   Ph.D in Rochester, Rochester Institute of Technology, 2028 (expected)
--   M.S. in Rochester, Rochester Institute of Technology, 2023
--   B.S. in Boulder, University of Colorado, 2019
+-   Ph.D in Computer and Information Science, Rochester Institute of Technology, 2028 (expected)
+-   M.S. in Computer Science, Rochester Institute of Technology, 2023
+-   B.S. in Mathematics, University of Colorado, 2019
 
 # Publications
 
